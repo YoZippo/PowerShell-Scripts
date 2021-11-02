@@ -10,8 +10,7 @@
   Author:            Adam Therres - CPSG
   Creation Date:     9/22/2021
 
-.CHANGE LOG
-
+  Change Log:
   v1.0 - 9/22/2021 - Initial version
   v2.0 - 11/2/2021 - Added logging
 
