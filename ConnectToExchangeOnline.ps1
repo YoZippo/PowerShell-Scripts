@@ -1,7 +1,7 @@
 <#
 
 .SYNOPSIS
-Testing
+
   Connect to Exchange Online PowerShell
 
 .NOTES
