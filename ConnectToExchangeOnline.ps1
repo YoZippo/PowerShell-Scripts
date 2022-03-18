@@ -1,4 +1,19 @@
-# Connect to Exchange Online so I don't have to remember the commands
+<#
+
+.SYNOPSIS
+
+  Connect to Exchange Online PowerShell
+
+.NOTES
+
+  Version:           1.0
+  Author:            Adam Therres - CPSG
+  Creation Date:     3/18/2022
+
+  Change Log:
+  v1.0 - 3/18/2022 - Initial version
+
+#>
 
 # Load Exchange Online PowerShell commands
 Import-Module ExchangeOnlineManagement
